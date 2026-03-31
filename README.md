@@ -49,10 +49,9 @@ Atualmente, sigo evoluindo em **Data Analytics, BI e Cloud**, buscando oportunid
 
 ## 📈 Estatísticas do GitHub
 
-## 🐍 Contribuições
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrieloliveiraa01/gabrieloliveiraa01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrieloliveiraa01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveiraa01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
